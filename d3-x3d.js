@@ -6330,7 +6330,7 @@
       y: 40,
       z: 40
     };
-    var colors = ["novartisblue", "beige", "red", "orange"];
+    var colors = ["novartisblue","orange", "green","beige"];
     var classed = "d3X3dBarChartMultiSeries";
     var labelPosition = "distal";
     var debug = false;
