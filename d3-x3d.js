@@ -6329,7 +6329,7 @@
       y: 50,
       z: 50
     };
-    var colors = ["green", "red", "yellow", "Blue", "orange"];
+    var colors = ["green", "red", "yellow", "blue", "orange"];
     var classed = "d3X3dBarChartMultiSeries";
     var labelPosition = "distal";
     var debug = false;
