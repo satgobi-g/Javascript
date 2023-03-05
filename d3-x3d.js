@@ -730,7 +730,10 @@
    * @type {Array}
    */
   var colorNames = {
-    novartisblue: "#0028A1",
+    novartisblue: "#0460A9",
+    novartisblue1:"#9CBFDD",
+    novartisblue2:"#699FCD",
+    novartisblue3:"#3580B7",
     aliceblue: "#f0f8ff",
     antiquewhite: "#faebd7",
     aqua: "#00ffff",
@@ -6330,7 +6333,7 @@
       y: 40,
       z: 40
     };
-    var colors = ["novartisblue","orange", "green","beige"];
+    var colors = ["novartisblue","novartisblue1", "novartisblue2","novartisblue3"];
     var classed = "d3X3dBarChartMultiSeries";
     var labelPosition = "distal";
     var debug = false;
