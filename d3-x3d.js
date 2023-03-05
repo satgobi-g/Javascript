@@ -735,7 +735,7 @@
     aqua: "#00ffff",
     aquamarine: "#7fffd4",
     azure: "#f0ffff",
-    beige: "#FF5733",
+    beige: "#FFC300",
     bisque: "#ffe4c4",
     black: "#000000",
     blanchedalmond: "#ffebcd",
