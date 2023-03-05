@@ -736,7 +736,7 @@
     aqua: "#00ffff",
     aquamarine: "#7fffd4",
     azure: "#f0ffff",
-    beige: "#FFC300",
+    beige: "#FF290C",
     bisque: "#ffe4c4",
     black: "#000000",
     blanchedalmond: "#ffebcd",
@@ -783,7 +783,7 @@
     gold: "#ffd700",
     goldenrod: "#daa520",
     gray: "#808080",
-    green: "#008000",
+    green: "#00B345",
     greenyellow: "#adff2f",
     honeydew: "#f0fff0",
     hotpink: "#ff69b4",
@@ -832,7 +832,7 @@
     oldlace: "#fdf5e6",
     olive: "#808000",
     olivedrab: "#6b8e23",
-    orange: "#ffa500",
+    orange: "#F56F02",
     orangered: "#ff4500",
     orchid: "#da70d6",
     palegoldenrod: "#eee8aa",
@@ -6330,7 +6330,7 @@
       y: 40,
       z: 40
     };
-    var colors = ["novartisblue", "beige", "red", "green"];
+    var colors = ["novartisblue", "beige", "red", "orange"];
     var classed = "d3X3dBarChartMultiSeries";
     var labelPosition = "distal";
     var debug = false;
