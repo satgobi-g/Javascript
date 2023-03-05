@@ -735,7 +735,7 @@
     aqua: "#00ffff",
     aquamarine: "#7fffd4",
     azure: "#f0ffff",
-    beige: "#f5f5dc",
+    beige: "#FF5733",
     bisque: "#ffe4c4",
     black: "#000000",
     blanchedalmond: "#ffebcd",
@@ -6329,7 +6329,7 @@
       y: 40,
       z: 40
     };
-    var colors = ["darkblue", "blue", "steelblue", "lightblue"];
+    var colors = ["blue", "beige", "red", "green"];
     var classed = "d3X3dBarChartMultiSeries";
     var labelPosition = "distal";
     var debug = false;
