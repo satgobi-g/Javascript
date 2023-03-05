@@ -2086,7 +2086,7 @@
       y: 40,
       z: 40
     };
-    var colors = ["orange", "red", "yellow", "blue", "green"];
+    var colors = ["orange", "red", "yellow", "steelblue", "green"];
     var classed = "d3X3dBarsMultiSeries";
 
     /* Scales */
@@ -6325,11 +6325,11 @@
     var width = 500;
     var height = 500;
     var dimensions = {
-      x: 50,
-      y: 50,
-      z: 50
+      x: 40,
+      y: 40,
+      z: 40
     };
-    var colors = ["green", "red", "yellow", "blue", "orange"];
+    var colors = ["green", "red", "yellow", "steelblue", "orange"];
     var classed = "d3X3dBarChartMultiSeries";
     var labelPosition = "distal";
     var debug = false;
@@ -9253,14 +9253,14 @@
    *
    * @type {Array}
    */
-  var countries = ["UK", "France", "Spain", "Germany", "Italy", "Portugal","India"];
+  var countries = ["UK", "France", "Spain", "Germany", "Italy", "Portugal"];
 
   /**
    * List of Fruit
    *
    * @type {Array}
    */
-		var fruit = ["Laptop", "Mobile", "Desktop", "I-pad"];
+  var fruit = ["Apples", "Oranges", "Pears", "Bananas"];
 
   /**
    * Random Number Generator between 1 and 10
@@ -9268,7 +9268,7 @@
    * @returns {number}
    */
   function randomNum() {
-    return Math.floor(Math.random() * 20) + 1;
+    return Math.floor(Math.random() * 10) + 1;
   }
 
   /**
