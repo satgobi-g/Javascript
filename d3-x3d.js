@@ -731,7 +731,7 @@
    */
   var colorNames = {
     novartisblue: "#0460A9",
-    novartisblue1:"#9CBFDD",
+    novartisblue1:"#03497e",
     novartisblue2:"#699FCD",
     novartisblue3:"#3580B7",
     aliceblue: "#f0f8ff",
