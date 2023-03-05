@@ -6329,7 +6329,7 @@
       y: 40,
       z: 40
     };
-    var colors = ["darkblue", "aliceblue", "blue", "steelblue", "lightblue"];
+    var colors = ["darkblue", "blue", "steelblue", "lightblue"];
     var classed = "d3X3dBarChartMultiSeries";
     var labelPosition = "distal";
     var debug = false;
